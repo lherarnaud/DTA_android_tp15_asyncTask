@@ -1,4 +1,4 @@
-package com.example.admin.dta_android_tp14_thread;
+package com.example.admin.dta_android_tp15_asyncTask;
 
 import org.junit.Test;
 
